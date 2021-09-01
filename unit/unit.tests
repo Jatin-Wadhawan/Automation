@@ -1,1 +1,2 @@
-Unit tests to be written
+1. Login with id="jatin.w" and open first link using id=1
+2. Refresh and move to id=4 and refresh again.
