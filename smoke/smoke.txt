@@ -1,1 +1,6 @@
-Smoke tests to be written
+1. Login
+2. Logout
+3. Refresh
+4. Back
+5. Logout and Back
+6. Click links and back
