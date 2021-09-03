@@ -2,13 +2,7 @@ This is a test file.
 
 touch updated.
 
-<<<<<<< HEAD
 please rebase and merge if possible(no conflicts)
-=======
-
-please rebase and merge if possible
->>>>>>> a56d8dc8f438a71c66b312aa1a26c87096ea9ed2
-
 
 
 
