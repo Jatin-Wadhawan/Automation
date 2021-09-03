@@ -4,4 +4,8 @@ id=2,3,4,5
 pass="*****"
 
 token=$6gayf656dtd7u
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> c8158657c4ea2963b6c482245a6ebbece5e4c1dd
