@@ -1,6 +1,10 @@
 Writing test data
 
 id=2,3,4,5
+<<<<<<< HEAD
 pass="*****"
 
 token=$6gayf656dtd7u
+=======
+pass="*****"
+>>>>>>> da7535542d3cb5d8e78fdb84b7a552e2113a9d10
