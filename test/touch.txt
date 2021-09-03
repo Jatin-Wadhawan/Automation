@@ -1,6 +1,6 @@
 This is a test file.
 
-please merge and commit
+please rebase this commit
 
 
 
