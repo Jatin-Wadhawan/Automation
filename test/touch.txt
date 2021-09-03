@@ -1,6 +1,10 @@
 This is a test file.
 
+<<<<<<< HEAD
 please rebase this commit
+=======
+touch updated. please rebase
+>>>>>>> 9058fd2fb04f05c6521fdef183820857522c36ff
 
 
 
