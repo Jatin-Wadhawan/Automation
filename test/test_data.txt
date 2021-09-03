@@ -3,9 +3,6 @@ Writing test data
 id=2,3,4,5
 pass="*****"
 
-<<<<<<< HEAD
+
 token=$6gkhfewdiugf656dtd7u
-=======
-token=$6gayf656dtd7u
->>>>>>> a56d8dc8f438a71c66b312aa1a26c87096ea9ed2
 
