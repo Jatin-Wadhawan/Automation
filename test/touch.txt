@@ -2,7 +2,7 @@ This is a test file.
 
 touch updated.
 
-please rebase and merge if possible
+please rebase and merge if possible(no conflicts)
 
 
 
