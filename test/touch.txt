@@ -4,7 +4,7 @@ This is a test file.
 touch updated. please rebase
 
 
-please rebase and merge if possible(no conflicts)
+ BUG B002 fixed - ready to move in v1_3
 
 
 
