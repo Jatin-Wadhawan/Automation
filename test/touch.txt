@@ -1,11 +1,19 @@
 This is a test file.
 
 
+<<<<<<< HEAD
+Bugs found and fixed in this version v1.4, to be merged with v2.0 and v1.3 as well
+Bug id - 00103
+
+
+please merge if possible(no conflicts)
+=======
 touch updated. please rebase
 
 
  BUG B002 fixed - ready to move in v1_3
 
+>>>>>>> dd07ffeaf116af9aef411036350e965457d76be0
 
 
 
